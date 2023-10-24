@@ -32,7 +32,7 @@
         "ja-JP": {
           "description": "Sample Full Description",
           "examplePhrases": [
-            "アレクサ、テストスキルを開いて",
+            "アレクサ、開発環境テストを開いて",
             "こんにちは",
             "ヘルプ"
           ],
